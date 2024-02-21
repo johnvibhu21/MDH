@@ -1,0 +1,26 @@
+{
+  "@odata.etag": "W/\"1930001563\"",
+  "@odata.id": "https://eadpredev.crm3.dynamics.com/api/data/v9.2/customeraddresses(26a22d0c-12af-ee11-a569-000d3ae86f5e)",
+  "@odata.editLink": "customeraddresses(26a22d0c-12af-ee11-a569-000d3ae86f5e)",
+  "_ownerid_value": "82fa42dc-b2fb-e711-8134-480fcfeb3a21",
+  "addresstypecode": 2,
+  "city": "Montgomery",
+  "country": "USA",
+  "county": "MONTGOMERY",
+  "customeraddressid": "26a22d0c-12af-ee11-a569-000d3ae86f5e",
+  "line1": "525 s N Jackson St",
+  "line2": null,
+  "name": "525 s N Jackson St, Montgomery, Alabama 36104, United States",
+  "ntg_legacyidaddress": null,
+  "ntg_mdmgoldenrecordid": null,
+  "ntg_status": 961270000,
+  "ntg_statusreason": 961270002,
+  "postalcode": "36104",
+  "stateorprovince": "AL",
+  "parentid_account": {
+    "_ntg_billtoaccount_value": null,
+    "_transactioncurrencyid_value": "343c342a-dadf-e711-8129-480fcff421a1",
+    "accountid": "c2d7ae90-36ea-eb11-bacb-000d3a0c5ec9",
+    "customertypecode": 961270001
+  }
+}
